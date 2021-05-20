@@ -11,3 +11,15 @@ app.get('json', function(req,res){
   let jfile = {"message": "Hello Json"};
   res.send(jfile);
 })
+
+
+
+
+
+
+
+
+
+
+
+module.exports = app;
